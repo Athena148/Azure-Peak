@@ -1199,189 +1199,7 @@
 /obj/structure/mineral_door/wood{
 	lockid = "mansionvampire";
 	locked = 1;
-	name = "Laboratory Inner Entry""
-	},
-/turf/open/floor/rogue/cobble,
-/area/rogue/indoors/vampire_manor)
-"fc" = (
-/obj/structure/fluff/railing/border/north,
-/obj/structure/fluff/railing/border/east,
-/turf/open/transparent/openspace,
-/area/rogue/indoors/vampire_manor)
-"fd" = (
-/obj/structure/flora/roguegrass/bush/westleach,
-/turf/open/floor/rogue/dirt/road,
-/area/rogue/outdoors/woods/vampire_lair)
-"fe" = (
-/obj/structure/chair/bench/coucha,
-/obj/structure/fluff/railing/corner,
-/turf/open/floor/carpet/red,
-/area/rogue/indoors/vampire_manor)
-"ff" = (
-/obj/structure/fluff/railing/fence{
-	dir = 8
-	},
-/obj/structure/fluff/railing/fence,
-/turf/open/floor/rogue/snowpatchy,
-/area/rogue/outdoors/banditcamp)
-"fj" = (
-/obj/structure/fluff/railing/corner,
-/turf/open/floor/rogue/dirt/road,
-/area/rogue/indoors/banditcamp)
-"fk" = (
-/obj/effect/decal/cobbleedge{
-	dir = 5;
-	pixel_y = -13
-	},
-/obj/effect/decal/cobbleedge{
-	dir = 6;
-	pixel_x = 6;
-	pixel_y = 4
-	},
-/turf/open/floor/rogue/cobble/mossy,
-/area/rogue/indoors/vampire_manor)
-"fl" = (
-/obj/structure/fluff/railing/border/east,
-/turf/open/water/bloody,
-/area/rogue/under/cave/inhumen)
-"fm" = (
-/obj/structure/mineral_door/wood/donjon/stone{
-	name = "Bedroom XII";
-	lockid = "zurch_bedroom_12";
-	locked = 1
-	},
-/turf/open/floor/rogue/ruinedwood/spiral,
-/area/rogue/under/cave/inhumen)
-"fn" = (
-/obj/structure/table/church,
-/obj/item/rogueweapon/huntingknife/idagger/adagger,
-/turf/open/floor/rogue/naturalstone,
-/area/rogue/under/cave/inhumen)
-"fo" = (
-/obj/structure/table/optable,
-/turf/open/floor/rogue/dirt/road,
-/area/rogue/indoors/banditcamp)
-"fp" = (
-/obj/item/roguekey/inhumen/three,
-/turf/open/floor/carpet/red,
-/area/rogue/under/cave/inhumen)
-"fq" = (
-/turf/open/floor/carpet/red,
-/area/rogue/under/cave/inhumen)
-"fr" = (
-/obj/structure/chair/bench/coucha/r,
-/obj/machinery/light/rogue/candle/r,
-/turf/open/floor/carpet/red,
-/area/rogue/indoors/vampire_manor)
-"fs" = (
-/obj/effect/decal/cobbleedge{
-	dir = 10
-	},
-/turf/open/floor/rogue/tile/bfloorz,
-/area/rogue/indoors/vampire_manor)
-"ft" = (
-/obj/item/rogueweapon/hammer/iron,
-/obj/machinery/anvil,
-/turf/open/floor/rogue/twig,
-/area/rogue/indoors/banditcamp)
-"fu" = (
-/obj/structure/flora/roguegrass/herb/taraxacum,
-/turf/open/floor/rogue/grass,
-/area/rogue/outdoors/woods/vampire_lair)
-"fv" = (
-/obj/structure/chair/wood/rogue/chair3,
-/obj/machinery/light/rogue/candle/r,
-/turf/open/floor/carpet/red,
-/area/rogue/under/cave/inhumen)
-"fw" = (
-/turf/closed/wall/mineral/rogue/wooddark/window,
-/area/rogue/under/cave/inhumen)
-"fx" = (
-/obj/structure/table/finestone,
-/obj/item/storage/belt/rogue/surgery_bag/full{
-	pixel_y = 10
-	},
-/turf/open/floor/rogue/cobble,
-/area/rogue/indoors/vampire_manor)
-"fy" = (
-/obj/structure/fluff/traveltile/wretch{
-	aportalgoesto = "wretchout5";
-	aportalid = "wretchin5"
-	},
-/turf/open/floor/rogue/naturalstone,
-/area/rogue/outdoors/woods/wretch_lair)
-"fz" = (
-/obj/effect/decal/cobbleedge{
-	dir = 5
-	},
-/obj/structure/flora/roguegrass,
-/obj/structure/fluff/railing/corner/south_west,
-/turf/open/floor/rogue/cobble/mossy,
-/area/rogue/outdoors/woods/wretch_lair)
-"fA" = (
-/obj/structure/fluff/walldeco/psybanner/tennite/red,
-/turf/closed/wall/mineral/rogue/craftstone,
-/area/rogue/under/cave/inhumen)
-"fB" = (
-/obj/structure/mineral_door/wood/donjon/stone{
-	name = "Bedroom I";
-	lockid = "zurch_bedroom_1";
-	locked = 1
-	},
-/turf/open/floor/rogue/tile,
-/area/rogue/under/cave/inhumen)
-"fD" = (
-/obj/machinery/light/rogue/candle/l,
-/obj/item/clothing/shoes/roguetown/boots/nobleboot,
-/obj/structure/closet/crate/roguecloset,
-/obj/item/clothing/suit/roguetown/shirt/dress/silkydress,
-/obj/item/clothing/suit/roguetown/shirt/tunic/noblecoat,
-/turf/open/floor/rogue/ruinedwood/spiral,
-/area/rogue/indoors/vampire_manor)
-"fE" = (
-/obj/structure/fluff/walldeco/church/line{
-	dir = 1
-	},
-/obj/structure/fluff/walldeco/church/line{
-	dir = 8
-	},
-/obj/effect/decal/cleanable/roguerune/god/psydon,
-/obj/machinery/light/rogue/firebowl/standing,
-/turf/open/floor/rogue/cobble,
-/area/rogue/outdoors/woods/wretch_lair)
-"fF" = (
-/turf/closed/wall/mineral/rogue/pipe{
-	dir = 4;
-	icon_state = "iron_corner"
-	},
-/area/rogue/indoors/vampire_manor)
-"fG" = (
-/obj/effect/decal/cobbleedge{
-	dir = 10;
-	icon_state = "cobbleedge-e"
-	},
-/obj/structure/fluff/railing/border/east,
-/obj/structure/table/church/alt,
-/obj/item/candle/skull/lit{
-	pixel_y = 4;
-	pixel_x = -1
-	},
-/turf/open/floor/rogue/cobble/mossy,
-/area/rogue/outdoors/woods/wretch_lair)
-"fH" = (
-/obj/structure/bars/pipe{
-	dir = 4
-	},
-/obj/structure/bars/tough,
-/turf/open/floor/rogue/concrete,
-/area/rogue/indoors/vampire_manor)
-"fI" = (
-/turf/open/floor/rogue/dirt/road,
-/area/rogue/outdoors/woods/vampire_lair)
-"fJ" = (
-/obj/structure/mineral_door/wood{
-	lockid = "mansionvampire_maid";
-	name = "North Western Hallway""
+	name = "Laboratory Inner Entry"
 	},
 /turf/open/floor/rogue/tile/bfloorz,
 /area/rogue/indoors/vampire_manor)
@@ -9544,6 +9362,8 @@
 /obj/structure/fluff/railing/corner,
 /turf/open/floor/rogue/dirt/road,
 /area/rogue/outdoors/banditcamp)
+"Ni" = (
+)
 "Nj" = (
 /obj/structure/fluff/railing/border/north,
 /obj/effect/decal/cleanable/debris/stony,
@@ -13970,8 +13790,8 @@ eS
 IL
 IL
 ZK
-fl
-fl
+Ni
+Ni
 dN
 Kr
 oz
@@ -14661,8 +14481,8 @@ IL
 HO
 XK
 Or
-fq
-fq
+Ni
+Ni
 IL
 FE
 vr
@@ -14791,13 +14611,13 @@ Or
 Lh
 hr
 Or
-fq
-fq
+Ni
+Ni
 Or
 Or
-fq
-fq
-fq
+Ni
+Ni
+Ni
 AX
 Zl
 Zl
@@ -14926,7 +14746,7 @@ Wb
 Sh
 Or
 HU
-fp
+Ni
 HU
 HO
 Zl
@@ -15169,7 +14989,7 @@ IL
 IL
 IL
 tV
-fn
+Ni
 Or
 Or
 tV
@@ -15322,7 +15142,7 @@ hw
 IL
 HO
 hw
-fq
+Ni
 XD
 Gg
 HO
@@ -15453,8 +15273,8 @@ IL
 IL
 ez
 nO
-fq
-fq
+Ni
+Ni
 IL
 IL
 IL
@@ -26964,7 +26784,7 @@ tT
 PI
 PI
 PI
-fF
+Ni
 ce
 ce
 ce
@@ -27631,7 +27451,7 @@ vX
 tl
 XQ
 Ch
-fk
+Ni
 VF
 vX
 PI
@@ -28017,7 +27837,7 @@ oo
 oo
 en
 en
-fH
+Ni
 Ce
 vR
 TX
@@ -28152,7 +27972,7 @@ wu
 iA
 ax
 iA
-fx
+Ni
 vX
 PI
 PI
@@ -29860,7 +29680,7 @@ Jy
 ZK
 bK
 BJ
-fq
+Ni
 kb
 Xq
 vG
@@ -30251,7 +30071,7 @@ vG
 qy
 yU
 Aw
-fq
+Ni
 qO
 vG
 IL
@@ -30375,13 +30195,13 @@ Nr
 fV
 wh
 uL
-fq
+Ni
 Al
 vG
 bK
 vG
 Ua
-fv
+Ni
 wh
 vG
 IL
@@ -30397,8 +30217,8 @@ uA
 uA
 IL
 IL
-fy
-fy
+Ni
+Ni
 IL
 IL
 IL
@@ -30505,7 +30325,7 @@ aq
 fV
 py
 uL
-fq
+Ni
 ST
 vG
 fK
@@ -30635,13 +30455,13 @@ GP
 fV
 wh
 ud
-fq
+Ni
 nv
 Ic
 bK
 UA
 kb
-fq
+Ni
 Ua
 vG
 IL
@@ -31030,8 +30850,8 @@ uU
 bK
 bK
 PA
-fq
-fq
+Ni
+Ni
 kb
 vG
 IL
@@ -31421,7 +31241,7 @@ Zl
 Zl
 Et
 Aw
-fq
+Ni
 qO
 vG
 IL
@@ -31551,7 +31371,7 @@ ee
 Zl
 vG
 Ua
-fv
+Ni
 wh
 vG
 Xm
@@ -31665,7 +31485,7 @@ qW
 qW
 qW
 Bv
-fw
+Ni
 Xm
 Ap
 Ev
@@ -31795,7 +31615,7 @@ zL
 zL
 qW
 qW
-fw
+Ni
 Xm
 wf
 Ev
@@ -31809,8 +31629,8 @@ os
 vG
 gp
 bK
-fB
-fq
+Ni
+Ni
 kb
 Ua
 xZ
@@ -32018,7 +31838,7 @@ aZ
 Df
 XM
 XM
-ff
+Ni
 aZ
 Ux
 vE
@@ -32442,8 +32262,8 @@ Xm
 Xm
 Dx
 QK
-fw
-fw
+Ni
+Ni
 UM
 UM
 Rh
@@ -32936,7 +32756,7 @@ aZ
 vE
 vE
 RY
-ft
+Ni
 Zm
 Fn
 Va
@@ -33310,7 +33130,7 @@ uY
 co
 ky
 nr
-fj
+Ni
 mH
 PS
 CR
@@ -33960,7 +33780,7 @@ HV
 HV
 qX
 uB
-fj
+Ni
 CR
 CR
 Qg
@@ -35916,7 +35736,7 @@ aZ
 Ky
 Ky
 Tz
-fo
+Ni
 CR
 CR
 wr
@@ -38315,7 +38135,7 @@ Ry
 ip
 wR
 wR
-fA
+Ni
 bj
 Fg
 wR
@@ -40397,10 +40217,10 @@ bX
 bX
 bX
 bX
-fI
-fI
-fI
-fI
+Ni
+Ni
+Ni
+Ni
 Dz
 cT
 cT
@@ -40496,7 +40316,7 @@ pF
 DB
 DB
 DB
-fu
+Ni
 lx
 nV
 lx
@@ -40520,18 +40340,18 @@ DB
 DB
 nV
 lx
-fu
+Ni
 DB
 DB
 DB
 bX
 eH
 Dz
-fI
-fI
-fI
-fI
-fI
+Ni
+Ni
+Ni
+Ni
+Ni
 eH
 cT
 zS
@@ -40657,10 +40477,10 @@ DB
 DB
 ps
 Dz
-fI
-fI
-fI
-fI
+Ni
+Ni
+Ni
+Ni
 Vk
 Dz
 Dz
@@ -40761,19 +40581,19 @@ KH
 KH
 KH
 kn
-fI
-fI
-fI
+Ni
+Ni
+Ni
 Lj
-fI
-fI
-fI
-fI
-fI
-fI
-fI
-fI
-fI
+Ni
+Ni
+Ni
+Ni
+Ni
+Ni
+Ni
+Ni
+Ni
 ar
 ar
 qE
@@ -40895,17 +40715,17 @@ kn
 kW
 ar
 ar
-fI
-fI
-fI
-fI
-fI
-fI
-fI
-fI
-fI
-fI
-fI
+Ni
+Ni
+Ni
+Ni
+Ni
+Ni
+Ni
+Ni
+Ni
+Ni
+Ni
 kn
 kn
 pg
@@ -41032,9 +40852,9 @@ ar
 ar
 ar
 ar
-fI
-fI
-fI
+Ni
+Ni
+Ni
 kn
 kn
 kn
@@ -41531,7 +41351,7 @@ DB
 DB
 DB
 DB
-fu
+Ni
 RZ
 KH
 WS
@@ -41699,11 +41519,11 @@ jU
 Ao
 Hh
 tS
-fI
-fI
-fI
-fI
-fI
+Ni
+Ni
+Ni
+Ni
+Ni
 ar
 ar
 Pu
@@ -41829,12 +41649,12 @@ jR
 ar
 sF
 ij
-fI
+Ni
 Ho
 xo
 oA
-fI
-fI
+Ni
+Ni
 Vm
 Pu
 Pu
@@ -41959,12 +41779,12 @@ Sr
 ar
 sF
 mr
-fI
+Ni
 Rw
 oA
 oA
 oA
-fI
+Ni
 ar
 ar
 Pu
@@ -42085,17 +41905,17 @@ kn
 qb
 pl
 GC
-fI
+Ni
 ar
 Hh
 wo
-fI
+Ni
 xo
 oA
 oA
 oA
-fI
-fI
+Ni
+Ni
 ar
 ar
 da
@@ -42190,7 +42010,7 @@ KH
 ax
 ax
 ho
-fJ
+Ni
 Ga
 Ga
 LS
@@ -42220,12 +42040,12 @@ aV
 ar
 Qp
 mr
-fI
+Ni
 xo
 oA
 oA
 oA
-fI
+Ni
 ar
 ar
 MM
@@ -42345,17 +42165,17 @@ KH
 Hp
 Sr
 lA
-fI
+Ni
 Ao
 cs
-fI
+Ni
 Qp
 mr
-fI
+Ni
 oA
 xo
 oA
-fI
+Ni
 ar
 ar
 DB
@@ -42474,24 +42294,24 @@ kn
 kn
 kn
 Ha
-fI
+Ni
 NX
 ar
 DB
 DB
-fI
+Ni
 HL
 mr
 vQ
 Zt
 Gh
-fI
+Ni
 nD
 ar
 DB
 Uh
 Wi
-fI
+Ni
 NO
 NO
 DB
@@ -42622,7 +42442,7 @@ MM
 rt
 rt
 YD
-fI
+Ni
 NO
 NO
 DB
@@ -42734,17 +42554,17 @@ tz
 Hd
 kn
 kn
-fI
+Ni
 Ze
 Ik
 ar
 DB
 DB
-fI
+Ni
 Qp
 HL
-fI
-fI
+Ni
+Ni
 ar
 pF
 DB
@@ -42752,8 +42572,8 @@ XF
 Uh
 zX
 ny
-fI
-fI
+Ni
+Ni
 NO
 NO
 DB
@@ -42871,9 +42691,9 @@ bk
 QJ
 DB
 DB
-fI
+Ni
 HL
-fI
+Ni
 ar
 ar
 DB
@@ -42882,8 +42702,8 @@ Gp
 rt
 Hb
 IZ
-fI
-fI
+Ni
+Ni
 NO
 NO
 DB
@@ -43003,7 +42823,7 @@ kn
 Hr
 mr
 HL
-fI
+Ni
 ar
 ar
 ar
@@ -43012,9 +42832,9 @@ rt
 rt
 rt
 rZ
-fI
-fI
-fd
+Ni
+Ni
+Ni
 NO
 ar
 ar
@@ -43133,8 +42953,8 @@ kn
 Rj
 HL
 HL
-fI
-fI
+Ni
+Ni
 PX
 ws
 pj
@@ -43147,7 +42967,7 @@ mr
 mr
 ar
 ar
-fI
+Ni
 ar
 JI
 Pw
@@ -43276,7 +43096,7 @@ HL
 HL
 HL
 HL
-fI
+Ni
 ar
 JI
 JI
@@ -43406,7 +43226,7 @@ HL
 HL
 HL
 ij
-fI
+Ni
 ar
 ar
 JI
@@ -43494,7 +43314,7 @@ kH
 QG
 kn
 nM
-fs
+Ni
 XW
 UL
 Ga
@@ -43535,7 +43355,7 @@ bb
 HL
 HL
 ij
-fI
+Ni
 ar
 ar
 ar
@@ -43604,7 +43424,7 @@ am
 am
 St
 Js
-fI
+Ni
 DB
 DB
 DB
@@ -43666,7 +43486,7 @@ hN
 Oq
 ar
 ar
-fI
+Ni
 ar
 ar
 ar
@@ -43734,8 +43554,8 @@ am
 am
 St
 Js
-fI
-fI
+Ni
+Ni
 MZ
 DB
 DB
@@ -43783,9 +43603,9 @@ kn
 Hr
 DB
 MV
-fI
-fI
-fI
+Ni
+Ni
+Ni
 DB
 vz
 rt
@@ -43795,9 +43615,9 @@ uV
 DB
 NO
 vF
-fI
-fI
-fI
+Ni
+Ni
+Ni
 Zx
 ar
 St
@@ -43864,9 +43684,9 @@ am
 am
 St
 Js
-fI
-fI
-fI
+Ni
+Ni
+Ni
 DB
 DB
 DB
@@ -43914,9 +43734,9 @@ DB
 DB
 DB
 DB
-fI
-fI
-fI
+Ni
+Ni
+Ni
 eC
 ME
 rt
@@ -43925,9 +43745,9 @@ cM
 DB
 NO
 NO
-fI
-fI
-fI
+Ni
+Ni
+Ni
 Ub
 TQ
 St
@@ -43994,11 +43814,11 @@ am
 am
 St
 Js
-fI
-fI
-fI
-fI
-fI
+Ni
+Ni
+Ni
+Ni
+Ni
 pF
 JC
 ar
@@ -44044,9 +43864,9 @@ Ox
 Ox
 Ox
 Ox
-fI
+Ni
 Ox
-fI
+Ni
 DB
 MM
 Uh
@@ -44056,8 +43876,8 @@ DB
 MZ
 NO
 nu
-fI
-fI
+Ni
+Ni
 Ub
 Ub
 St
@@ -44124,11 +43944,11 @@ am
 am
 St
 Js
-fI
+Ni
 yt
 kF
-fI
-fI
+Ni
+Ni
 Cr
 nD
 JC
@@ -44167,17 +43987,17 @@ Ec
 VT
 VT
 Ox
-fI
-fI
+Ni
+Ni
 Ox
-fI
-fI
-fI
+Ni
+Ni
+Ni
 Ox
-fI
+Ni
 Ox
-fI
-fI
+Ni
+Ni
 MM
 Uh
 DB
@@ -44186,8 +44006,8 @@ DB
 DB
 DB
 NO
-fI
-fI
+Ni
+Ni
 eH
 Ub
 St
@@ -44258,7 +44078,7 @@ eH
 pF
 pc
 It
-fI
+Ni
 cz
 tQ
 ar
@@ -44297,17 +44117,17 @@ kN
 VT
 DB
 Ox
-fI
+Ni
 Ox
 Ox
-fI
+Ni
 Ox
-fI
-fI
-fI
+Ni
+Ni
+Ni
 Ox
-fI
-fI
+Ni
+Ni
 MM
 Uh
 DB
@@ -44317,9 +44137,9 @@ DB
 DB
 DB
 pF
-fI
-fI
-fI
+Ni
+Ni
+Ni
 KD
 St
 "}
@@ -44388,7 +44208,7 @@ MM
 DB
 Rz
 nI
-fI
+Ni
 mr
 aA
 ar
@@ -44427,17 +44247,17 @@ YL
 lx
 DB
 Ox
-fI
-fI
+Ni
+Ni
 Ox
-fI
-Ox
-Ox
+Ni
 Ox
 Ox
 Ox
-fI
-fI
+Ox
+Ox
+Ni
+Ni
 DB
 Uh
 DB
@@ -44448,8 +44268,8 @@ DB
 DB
 DB
 DB
-fI
-fI
+Ni
+Ni
 KD
 St
 "}
@@ -44553,21 +44373,21 @@ LS
 lN
 KH
 kC
-fu
+Ni
 DB
 DB
 Ox
-fI
-fI
-fI
-fI
+Ni
+Ni
+Ni
+Ni
 Ox
-fI
-fI
-fI
+Ni
+Ni
+Ni
 Ox
-fI
-fI
+Ni
+Ni
 MM
 Uh
 DB
@@ -44579,7 +44399,7 @@ ar
 DB
 DB
 DB
-fI
+Ni
 KD
 St
 "}
@@ -44651,11 +44471,11 @@ oA
 ar
 tQ
 Cr
-fI
+Ni
 Uh
 MM
 DB
-fI
+Ni
 kn
 iF
 LS
@@ -44687,17 +44507,17 @@ Uk
 lx
 DB
 Ox
-fI
+Ni
 Ox
 Ox
-fI
+Ni
 Ox
-fI
+Ni
 Ox
-fI
+Ni
 Ox
-fI
-fI
+Ni
+Ni
 fX
 Uh
 DB
@@ -44780,7 +44600,7 @@ oA
 oA
 xo
 tQ
-fI
+Ni
 DB
 Uh
 MM
@@ -44817,16 +44637,16 @@ Xp
 DB
 pF
 Ox
-fI
-fI
+Ni
+Ni
 Ox
-fI
+Ni
 Ox
-fI
+Ni
 Ox
-fI
+Ni
 Ox
-fI
+Ni
 NO
 NO
 Uh
@@ -44947,16 +44767,16 @@ kn
 DB
 DB
 Ox
-fI
-fI
+Ni
+Ni
 Ox
-fI
+Ni
 Ox
-fI
+Ni
 Ox
-fI
-fI
-fI
+Ni
+Ni
+Ni
 NO
 LQ
 Uh
@@ -45077,12 +44897,12 @@ kn
 kn
 QJ
 Ox
-fI
-fI
+Ni
+Ni
 Ox
-fI
+Ni
 Ox
-fI
+Ni
 Ox
 Ox
 Ox
@@ -45207,14 +45027,14 @@ lu
 kn
 uV
 Ox
-fI
-fI
+Ni
+Ni
 Ox
-fI
-fI
-fI
-fI
-fI
+Ni
+Ni
+Ni
+Ni
+Ni
 Ox
 NO
 NO
@@ -45703,18 +45523,18 @@ HH
 eo
 kn
 kn
-fI
-fI
-fI
+Ni
+Ni
+Ni
 ar
 ar
 ar
 ar
 ar
-fI
-fI
-fI
-fI
+Ni
+Ni
+Ni
+Ni
 kn
 kn
 dn
@@ -45832,18 +45652,18 @@ bZ
 jM
 kn
 kn
-fI
-fI
-fI
-fI
-fI
-fI
+Ni
+Ni
+Ni
+Ni
+Ni
+Ni
 ar
 ar
-fI
-fI
-fI
-fI
+Ni
+Ni
+Ni
+Ni
 ar
 kW
 kn
@@ -45964,15 +45784,15 @@ kn
 ar
 qE
 ar
-fI
-fI
-fI
-fI
-fI
-fI
-fI
-fI
-fI
+Ni
+Ni
+Ni
+Ni
+Ni
+Ni
+Ni
+Ni
+Ni
 ar
 ar
 ar
@@ -47015,12 +46835,12 @@ hQ
 HB
 kb
 cK
-fq
+Ni
 Os
 vG
 OG
 mM
-fm
+Ni
 Zl
 Zl
 KU
@@ -47145,7 +46965,7 @@ Aw
 Av
 jX
 up
-fq
+Ni
 eF
 Ic
 QO
@@ -47275,8 +47095,8 @@ Aw
 fV
 wh
 Iu
-fq
-fq
+Ni
+Ni
 HE
 mM
 mM
@@ -47405,8 +47225,8 @@ Aw
 HX
 Di
 Ws
-fq
-fq
+Ni
+Ni
 Ic
 Jw
 mM
@@ -47801,8 +47621,8 @@ vG
 FG
 mM
 bg
-fq
-fq
+Ni
+Ni
 DX
 vG
 IL
@@ -48192,7 +48012,7 @@ Ol
 mM
 pM
 Aw
-fq
+Ni
 kb
 vG
 IL
@@ -48581,8 +48401,8 @@ lB
 Xk
 mM
 Ti
-fq
-fq
+Ni
+Ni
 Ss
 vG
 IL
@@ -55603,7 +55423,7 @@ ap
 ap
 ap
 ap
-fE
+Ni
 xt
 Uo
 yi
@@ -55736,7 +55556,7 @@ ap
 CT
 zT
 qF
-fG
+Ni
 rp
 AM
 Is
@@ -56255,7 +56075,7 @@ ap
 ap
 CT
 xt
-fz
+Ni
 el
 el
 el
@@ -60663,7 +60483,7 @@ Ek
 Kq
 LS
 cn
-fc
+Ni
 KE
 iH
 iH
@@ -60794,7 +60614,7 @@ KC
 LS
 Vb
 Gt
-fc
+Ni
 KE
 iH
 iH
@@ -61965,7 +61785,7 @@ RV
 kn
 VN
 Vb
-fD
+Ni
 kn
 kn
 kn
@@ -62493,7 +62313,7 @@ eb
 Vb
 ES
 kn
-fe
+Ni
 lN
 KH
 QM
@@ -62623,7 +62443,7 @@ kn
 Il
 kn
 kn
-fr
+Ni
 JO
 KH
 QM
